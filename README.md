@@ -7,11 +7,11 @@ By [Jirui Zhang]**
 **Legend Explanation**   
 Bars:    
 •	The average glucose level data is presented through vertical bars which differentiate diabetic and non-diabetic patient measurements.
-•	The data shows diabetic patients in the red bars and non-diabetic patients in green bars to distinguish their results.
+•	The data shows diabetic patients in the red bars and non-diabetic patients in green bars to distinguish their results.  
 X-Axis:  
-•	Displays the diabetes outcome (0 = Non-Diabetic, 1 = Diabetic).
+•	Displays the diabetes outcome (0 = Non-Diabetic, 1 = Diabetic).  
 Y-Axis:  
-•	Indicates the average glucose level.  
+•	Indicates the average glucose level.   
 **Findings Highlights**  
 •	The blood sugar measurement of diabetic individuals proves consistently higher than the blood sugar levels of non-diabetic individuals.
 •	People with diabetes generally show elevated BMI readings which suggests that body mass index influences the chance of developing diabetes.
